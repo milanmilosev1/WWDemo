@@ -1,4 +1,6 @@
-﻿namespace WWDemo.Api.Requests
+﻿using WWDemo.Application.Products.Queries.GetProductBySerialNumber;
+
+namespace WWDemo.Api.Requests
 {
 	public class AddProductRequest
 	{
